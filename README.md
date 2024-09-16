@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently a research assistant in the Rochefort Lab based in Edinburgh, UK. (https://rochefortlab.co.uk/).
+I'm currently a research assistant in the Rochefort Lab (https://rochefortlab.co.uk/) based in Edinburgh, UK.
 
 I'm looking for a PhD opportunity in computational neuroscience.
 
