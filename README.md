@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 I'm currently a research assistant in the Rochefort Lab (https://rochefortlab.co.uk/) based in Edinburgh, UK.
 
-I'm looking for a PhD opportunity in computational neuroscience.
+I have just finished my MScR Integrative Neuroscience at Edinburgh, and I'm looking for a PhD opportunity in computational neuroscience.
 
 Contact me at: kw.andrew.lau@gmail.com
