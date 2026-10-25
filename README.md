@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently a PhD stidemt in the Rochefort Lab (https://rochefortlab.co.uk/) based in Edinburgh, UK.
+I'm currently a PhD student in the Rochefort Lab (https://rochefortlab.co.uk/) based in Edinburgh, UK.
 
 Contact me at: kw.andrew.lau@gmail.com
